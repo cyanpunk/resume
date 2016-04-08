@@ -1,0 +1,201 @@
+{
+  "basics": {
+    "name": "Austris Landmanis",
+    "label": "Web Developer",
+    "picture": "https://avatars2.githubusercontent.com/u/1422864?v=3&s=460",
+    "email": "austris@chevron.lv",
+    "phone": "+371 2 666 3838",
+    "website": "http://chevron.lv/",
+    "summary": "Creative, innovative and self driven. Passionate about cutting edge technology. I'm a problem solver keen on delivery with a diverse mindset ever ready to learn and adapt.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Riga",
+      "countryCode": "LV",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "cyapunk",
+        "url": "https://twitter.com/cyanpunk"
+      },
+      {
+        "network": "Facebook",
+        "username": "cyanpunk",
+        "url": "https://www.facebook.com/profile.php?id=100003249218432"
+      },
+      {
+        "network": "Instagram",
+        "username": "cyanpunk",
+        "url": "https://www.instagram.com/cyanpunk"
+      },
+      {
+        "network": "Linkedin",
+        "username": "cyanpunk",
+        "url": "https://lv.linkedin.com/in/cyanpunk"
+      },
+      {
+        "network": "GitHub",
+        "username": "cyanpunk",
+        "url": "https://github.com/cyanpunk"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Creative.gs",
+      "position": "Frontend Web Developer",
+      "website": "http://creative.gs/",
+      "startDate": "2012-11-01",
+      "endDate": "2016-02-26",
+      "summary": "Creative.gs is one of the most successful IT companies in Latvia. Company has released two major products within few past years. One of them is weight loss and diet delivery platform StockholmHealth.com and the second one is foreign language learning course at SwissLanguages.com.",
+      "highlights": [
+        "Build and maintain clean web front-end code for each update and new feature",
+        "Testing and debugging different problems in each product",
+        "Brainstorm and share new ideas to improve company products",
+        "Follow and implement latest technologies to improve productivity"
+      ]
+    },
+    {
+      "company": "Creative Mobile",
+      "position": "Web Developer",
+      "website": "http://creo.mobi/",
+      "startDate": "2011-04-24",
+      "endDate": "2012-11-01",
+      "summary": "IT company developing and maintaining variety of web based procjets for their clients. Project range is diverse starting at web based games to city government tools to involve citizens. Some of projects I put a hand on:",
+      "highlights": [
+        "idejuakademija.lv - web based game on generating new ideas",
+        "donjuangame.com - web based game on dating and becoming DonJuan",
+        "stakeholde.rs - tools suite for city government to involve citizens in reporting problems",
+        "gudrasgalvas.lv - social network for deputies of Latvian Saeima",
+        "manablss.lv - platform for publicly posted initiatives",
+        "politika.lv - blog posts from various authors about politics in Latvia"
+      ]
+    },
+    {
+      "company": "MINT Communications",
+      "position": "Web Developer",
+      "website": "http://mint.lv/",
+      "startDate": "2010-09-01",
+      "endDate": "2011-01-01",
+      "summary": "Advert agency providing multiple services to boost client ad campaigns.",
+      "highlights": [
+        "Build and maintain in-house web products"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Information Systems Management Institute",
+      "area": "Graphic Design",
+      "studyType": "Bachelor",
+      "startDate": "2009-09-01",
+      "endDate": "2010-05-31"
+    },
+    {
+      "institution": "Professional High School of Jurmala",
+      "area": "Retail Trade",
+      "studyType": "Secondary Education",
+      "startDate": "2005-09-01",
+      "endDate": "2009-05-31"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "ruby",
+        "javascript",
+        "coffee",
+        "css",
+        "sass",
+        "html",
+        "slim",
+        "svg"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "Ruby on Rails",
+        "jQuery",
+        "Node.js",
+        "Sails.js",
+        "Backbone.js",
+        "Semantic-UI",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "GIT",
+        "Atom",
+        "Photoshop",
+        "Illustrator"
+      ]
+    },
+    {
+      "name": "Environments",
+      "keywords": [
+        "Mac",
+        "Linux"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Latvian",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "camping",
+      "keywords": []
+    },
+    {
+      "name": "travel",
+      "keywords": []
+    },
+    {
+      "name": "snowboard",
+      "keywords": []
+    },
+    {
+      "name": "ice-hockey",
+      "keywords": []
+    },
+    {
+      "name": "videogames",
+      "keywords": []
+    },
+    {
+      "name": "esports",
+      "keywords": []
+    },
+    {
+      "name": "gamedev",
+      "keywords": []
+    },
+    {
+      "name": "technology",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {
+      "name": "Kristofs Blaus, CEO at Creative.gs",
+      "reference": "Austris has developed UX and frontend side for various tools. Austris' UX knowledge and design skills has let us cut out the need for a graphic design, therefore optimizing our workflow. He holds the development within projects style book and comes up with new neccessary UX elements when needed and carries that out very well."
+    },
+    {
+      "name": "Girts Kesteris, CTO at Creative.gs",
+      "reference": "Austris is very passionate in Web development and thats what I love about him. He thinks out of the box, understands the “big picture” and most importantly loves programming!"
+    }
+  ]
+}
